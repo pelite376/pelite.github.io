@@ -20,6 +20,9 @@ description: A website all about our project
 
 # List of links in the navigation bar
 navbar-links:
+  Proposal: "proposal"
+  Contract: "contract"
+  CI Plan: "ciPlan"
   Team Members:
     - Peter Hollander: "http://peterhollander.github.io"
     - Liv Behrens: "http://ojb2.github.io"
