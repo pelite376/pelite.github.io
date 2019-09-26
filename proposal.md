@@ -12,7 +12,6 @@ While it is natural and even healthy for some communities to evolve, far too oft
 
 The problem of gentrification can be complicated––the people most affected by gentrification are often the same ones who can combat it the least; they work long hours, living paycheck-to-paycheck, and are unavailable to be informed or involved. The bright side is that there are many ways to combat this gentrification while boosting economic growth, laid out by [Everyday Feminism](https://everydayfeminism.com/2017/07/fight-gentrification-for-community/). These tactics involve community involvement, preservation of public property, confrontation of elected officials, and more. If there were a way to more easily be informed and involved in one’s community, perhaps communities can better retain their vibrancy and culture. The solution likely stems from those affected uniting and demanding community control.
 
-![Flyers](/img/flyers1s.jpg) ![Flyers](/img/flyers2s.jpg)
 <img src="/img/flyers1s.jpg" class="center"> <img src="/img/flyers2s.jpg" class="center">
 
 ---
