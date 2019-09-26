@@ -27,6 +27,8 @@ navbar-links:
     - Peter Hollander: "http://peterhollander.github.io"
     - Liv Behrens: "http://ojb2.github.io"
     - Teiheim Edwards: "http://teiheim.github.io"
+  Credit:
+    - Logo: "https://pixabay.com/vectors/brooklyn-new-york-skyline-cityscape-2858985/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -71,7 +73,6 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 links:
   rss: true
-  image (logo): "https://pixabay.com/vectors/brooklyn-new-york-skyline-cityscape-2858985/"
 # email: "someone@example.com"
 # facebook: deanattali
 # github: daattali
