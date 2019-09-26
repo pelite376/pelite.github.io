@@ -9,7 +9,7 @@ Preliminary Information
 		- Special Commitments: Work
 		- Special Skills: Photoshop
 	- Peter Hollander: pjh1@williams.edu
-    - Schedule Overview: Generally available towards the evening, not the weekend
+		- Schedule Overview: Generally available towards the evening, not the weekend
 		- Special Commitments: Sports
 		- Special Skills: Good writer
 	- Teiheim Edwards: tke1@williams.edu
@@ -25,14 +25,14 @@ Preliminary Focus on Purpose
   - It is often hard to create political action around people who do not have the expertise and a problem that moves relatively slowly. We want to arm these people with the information and resources to protect themselves and their homes. 
 Dividing up the Teamwork
   - Group roles shall rotate and are never fixed. That being said we recognize that as people with different strengths and weaknesses, we may gravitate to similar positions at different points.
-	- Notetaker
-    - During meetings, this member will be responsible for maintaining notes of work described for each member in the following week and their responsibilities. They will also keep note of decisions made.
+  	- Notetaker
+    		- During meetings, this member will be responsible for maintaining notes of work described for each member in the following week and their responsibilities. They will also keep note of decisions made.
 	- Web Developer
-    - This member be responsible for maintaining and editing the github website. They are not responsible for the design of the website, but they are responsible for expressing the designs on the website.
+    		- This member be responsible for maintaining and editing the github website. They are not responsible for the design of the website, but they are responsible for expressing the designs on the website.
 	- Aestheticist 
-    - This member is largely responsible for logos and most considerations regarding more detailed decisions on colors.
+    		- This member is largely responsible for logos and most considerations regarding more detailed decisions on colors.
 	- Members at Large
-    - All members will do their best to express themselves and return this same space to others. They are also required to try their best to communicate their feelings are decisions made for the project so that we may understand each other’s perspective. 
+    		- All members will do their best to express themselves and return this same space to others. They are also required to try their best to communicate their feelings are decisions made for the project so that we may understand each other’s perspective. 
 
 Like a certain character said: “My Friends are My Power”
 
