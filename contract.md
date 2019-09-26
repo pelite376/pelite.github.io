@@ -4,18 +4,18 @@ title: Team Contract
 ---
 
 Preliminary Information
-	- Liv Behrens: ojb2@williams.edu
-		- Schedule Overview:  Generally available towards the evening
-		- Special Commitments: Work
-		- Special Skills: Photoshop
-	- Peter Hollander: pjh1@williams.edu
-		- Schedule Overview: Generally available towards the evening, not the weekend
-		- Special Commitments: Sports
-		- Special Skills: Good writer
-	- Teiheim Edwards: tke1@williams.edu
-		- Schedule Overview: Generally available towards the evening
-		- Special Commitments: Dance
-		- Special Skills: Research, Video Editing
+- Liv Behrens: ojb2@williams.edu
+	- Schedule Overview:  Generally available towards the evening
+	- Special Commitments: Work
+	- Special Skills: Photoshop
+- Peter Hollander: pjh1@williams.edu
+	- Schedule Overview: Generally available towards the evening, not the weekend
+	- Special Commitments: Sports
+	- Special Skills: Good writer
+- Teiheim Edwards: tke1@williams.edu
+	- Schedule Overview: Generally available towards the evening
+	- Special Commitments: Dance
+	- Special Skills: Research, Video Editing
 Guiding Principles
   - Empathy. Understanding people and contexts that we did not grow up around require us to exercise empathy. 
   - Respect. Everyone deserves requires and deserves respect. Demanding respect and acknowledgement is vital to our  project.
