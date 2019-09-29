@@ -23,6 +23,7 @@ navbar-links:
   Proposal: "proposal"
   UX Research:
     - CI Plan: "ciPlan"
+    - CI Check-in: "ciCheckIn"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
