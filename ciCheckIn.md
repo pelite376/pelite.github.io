@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contextual Inquiry Plan
+title: Contextual Inquiry Check-in
 ---
 
 We decided that although a preliminary interview could’ve been a more appropriate indicator than contextual inquiry of the challenges faced by lower-income individuals facing gentrification, we could still gather data in a fashion as close to a contextual inquiry as possible. We spoke with an interviewee about her past experiences, trying to ask “why” questions and dig deeper into her explanation of her situation. Because we could not go to her hometown with her and it was retrospective, this was not a full contextual inquiry, but we tried to give it as many elements of one as possible. 
