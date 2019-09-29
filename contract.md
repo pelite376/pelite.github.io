@@ -49,7 +49,7 @@ Accountability Processes
 
 Rewards and Punishments
 - Rewards: Paresky Snack Bar
-	- We all have busy schedules. The punishment will be only figuring how to better work with them to make sure their task is accomplished. What over in team planning caused this?
+	- We all have busy schedules. Upon failure we will only be only figuring how to better work with them to make sure our task is accomplished. Punishing ourselves any further wouldn't be productive.
 
 Follow-Up
 - Revision will happen as often as necessary. The problems will always arise and the Team Contract needs to be mutable as possible as we learn more about each other and ourselves. 
