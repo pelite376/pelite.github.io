@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Peter, Liv, and Teiheim (Pelite)'s Website
+title: Peter | Oliver | Teiheim
 
 # Short description of your site
 description: A website all about our project
@@ -24,6 +24,7 @@ navbar-links:
   UX Research:
     - CI Plan: "ciPlan"
     - CI Check-in: "ciCheckIn"
+    - CI Review: "ciReview"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
