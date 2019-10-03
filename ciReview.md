@@ -5,7 +5,7 @@ title: Contextual Inquiry Review
 
 ## Design Research Themes and Process
 
-\img\affinityDiag.png
+<img src="/img/affinityDiag.png" class="center"> 
 
 ## Task Analysis
 
