@@ -2,10 +2,21 @@
 layout: page
 title: Contextual Inquiry Review
 ---
+## Key Findings
+
+After interviewing two students at Williams College, both from areas in New York that are currently being gentrified, and a middle-aged professional living in Seattle, we have developed a few key findings. From our inquiries we were able to better understand the lives of people living in gentrified areas––what they are and aren’t aware of, what they feel, their interpretation of their surrounding communities, and much more. The most critical thing we have come to understand is that people are unaware of the risk that their communities are facing of  becoming gentrified. More importantly, they do not know which businesses are at risk of closing, nor do they know what is planned to be built in their place until the buildings and stores already exist. Unlike in more wealthy neighborhoods, members of these communities lack the time and resources to inquire about (and potentially voice discontent for) businesses and residences that are being built, thereby waiving their power to support their own neighborhoods.
+
+## Contextual Inquiry Results
+
+
+blah blah blah
+
 
 ## Design Research Themes and Process
 
 <img src="/img/affinityDiag.png" class="center"> 
+
+blah blah blah
 
 ## Task Analysis
 
