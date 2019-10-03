@@ -2,15 +2,16 @@
 layout: page
 title: Contextual Inquiry Review
 ---
+
 ## Key Findings
 
 After interviewing two students at Williams College, both from areas in New York that are currently being gentrified, and a middle-aged professional living in Seattle, we have developed a few key findings. From our inquiries we were able to better understand the lives of people living in gentrified areas––what they are and aren’t aware of, what they feel, their interpretation of their surrounding communities, and much more. The most critical thing we have come to understand is that people are unaware of the risk that their communities are facing of  becoming gentrified. More importantly, they do not know which businesses are at risk of closing, nor do they know what is planned to be built in their place until the buildings and stores already exist. Unlike in more wealthy neighborhoods, members of these communities lack the time and resources to inquire about (and potentially voice discontent for) businesses and residences that are being built, thereby waiving their power to support their own neighborhoods.
 
 ## Contextual Inquiry Results
 
-
-blah blah blah
-
+We interviewed two students and one adult all of whom have lived in gentrified areas. The first two were students from Brooklyn, New York. The first was from Brownsville who moved to the suburbs in Pennsylvania at the age of twelve. The third was a working adult from San Turce, Puerto Rico who grew up in Baltimore, Maryland and recently moved to the suburbs of Seattle, Washington.
+	
+There is more of a sense of community in low-income neighbourhoods despite the fact that there are less opportunities. White people move in to predominantly brown and black spaces and build expensive shops, replacing essential local business. New businesses just pop up, leaving residents surprised and unprepared; change was very fast. It’s easy to feel surrounded and trapped, in addition to the lack of housing and financial security. Rent prices increase to the point that living in these neighbourhoods is no longer affordable, and people are forced to leave, sometimes moving in with relatives. There are organizations geared toward helping combat the processes of gentrification by providing support to local businesses, but people don’t seem to know about them. It feels like there’s nothing that can be done to combat this issue, and even if there was, people are too busy to get involved.
 
 ## Design Research Themes and Process
 
