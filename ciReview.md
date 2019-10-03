@@ -17,6 +17,23 @@ There is more of a sense of community in low-income neighbourhoods despite the f
 
 <img src="/img/affinityDiag.png" class="center"> 
 
+##_Themes_
+*-No recourse
+	*-Many of these families lack time and/or money to effectualize change
+*-Life slowly gets harder
+	*-It seems that there is a boiling point reached before people eventually must move
+*-Slow trickle of gentrifiers 
+	*-White people with money tend to patronize expensive new businesses 
+*-No politics
+	*-No one who spoke to us mentioned the role the government plays in gentrification
+*-Construction as a force of violence
+	*-The buildings are nicer but are obviously not for the people in the area
+
+
+The people who were interviewed all expressed very similar experiences. There were always telltale signs that gentrification was happening. These establishments provide very little if any actual use to the people living in the surrounding area. Business that people needed to survive would slowly be replaced by relatively useless and expensive establishments. By the time the laundromat or the grocery store is gone, it is too late. The end result always seems to be that low income people move to another place they will probably make end up also making “trendy” at some point. There is no way to unite these people to services/goods that they have lost. 
+In one of the most preliminary iterations of this idea, there was a statement close to saying both that people are knowledgeable about gentrification but also that people do not have the appropriate knowledge about gentrification. While this statement is definitely contradictory, it seems true. There were many answers surrounding the quality of gentrification but not many surrounding the reasons of why it is occuring. There is a knowledge of the surroundings, there is a will to stop gentrification, but there is a disconnect between this and the actions to take. 
+
+In the future with much more time, a diary study could yield excellent results. We would have a potential user walk around their own city simply noting the changes they have observed over the course of the time they have lived there. We will ask for special attention to be paid to the people walking the city and the businesses that are passed. The diaries then branch into two different paths a person who walks into an older establishment in their neighborhood, and a person who walks into a newer establishment. From this data we can extrapolate how we would want to proceed with an instance of directed storying telling with new people. The ability of this form of storytelling to delve into the specifics of how someone feels is excellent in a space where our user base would be based around people who may not communicate the exact things they notice and feel about a certain situation in a very verbose manner. If possible a Contextual Inquiry of both grassroots organizers and land developers.
 
 ## Task Analysis
 
