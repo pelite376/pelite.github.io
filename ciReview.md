@@ -3,7 +3,7 @@ layout: page
 title: Contextual Inquiry Review
 ---
 
-##Task Analysis
+## Task Analysis
 
 _Who is going to use the design?_ Our design is intended for use by the residents of neighborhoods that are at risk of experiencing gentrification. This includes people of all ages, so long as they feel that they belong to the existing community and want to get involved.
 
