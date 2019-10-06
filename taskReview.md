@@ -9,7 +9,7 @@ title: Task Review
 
 paragraph
 
-#### Businesses notifying local residents of community events
+#### Businesses notify local residents of community events
 
 Joseph is the owner of a local sandwich shop in Brooklyn, and he wants people in the area to know that he plans to offer 25% off sandwiches on Fridays to help bring in more business. He used to just post these discounts outside of his storefront window, but he’s frustrated because people need to be walking by his store for the signs to be effective. The owner of a small and struggling business, he can’t afford to pay for additional advertisements on the radio or billboards, but he wants a way for more people to know about the deals he is offering. 
 
