@@ -3,6 +3,8 @@ layout: page
 title: Task Review
 ---
 
+---
+
 ## Task Descriptions
 
 #### Connecting people to their local politicians
@@ -31,6 +33,8 @@ Gabriel is a writer living in Los Angeles. He likes to write poems and short sto
 
 <!---
 ## Initial Designs
+
+---
 
 paragraph on design 1
 
