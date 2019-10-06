@@ -17,6 +17,7 @@ paragraph about task 5
 
 paragraph about task 6
 
+<!---
 ### Initial Designs
 
 paragraph on design 1
@@ -40,3 +41,4 @@ paragraph on design 3
 image of design 3
 
 paragraph on sketched tasks
+--->
