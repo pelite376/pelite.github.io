@@ -9,7 +9,7 @@ title: Task Review
 
 paragraph
 
-#### Businesses notify local residents of community events
+#### Businesses notifying local residents of community events
 
 Joseph is the owner of a local sandwich shop in Brooklyn, and he wants people in the area to know that he plans to offer 25% off sandwiches on Fridays to help bring in more business. He used to just post these discounts outside of his storefront window, but he’s frustrated because people need to be walking by his store for the signs to be effective. The owner of a small and struggling business, he can’t afford to pay for additional advertisements on the radio or billboards, but he wants a way for more people to know about the deals he is offering. 
 
@@ -21,7 +21,7 @@ Petra is an activist living in Detroit. She wants to be more involved in stoppin
 
 paragraph
 
-#### Inform community residents of government programs available in the area
+#### Informing community residents of government programs available in the area
 
 Piper is the owner of a local authentic Hawaiian barbecue restaurant in Queens, and she has been having difficulty paying her business’s bills on time due to rapidly increasing rent. She doesn’t believe that there are any government programs available to help her manage her rent bills, so she feels helpless and is considering closing the business. She tried looking online for anything she could find, but her busy schedule and long hours don’t allow her to spend a lot of time scouring legislative bills for information. She feels sad about closing down because she’s built a loyal customer base, some of which is almost 25 years old, but even this loyalty isn’t enough to get her through these hard times. She wishes there were a way she could quickly find out whether there exist programs she could leverage to get her through to better days.
 
