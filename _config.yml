@@ -25,7 +25,7 @@ navbar-links:
     - CI Plan: "ciPlan"
     - CI Check-in: "ciCheckIn"
     - CI Review: "ciReview"
-    - Task Review: "taskReview"
+    - Task Review/Check-In: "taskReview"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
