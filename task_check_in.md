@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Check-In
+title: Project Design Check-In
 ---
 
 ## Task Descriptions
