@@ -82,8 +82,8 @@ General High-Level-Idea: Seeking out information can be difficult without traini
 
 **Note: While generally in this class we are considering ideas that do not have to be one-hundred percent feasible, due to the more intimate nature of this project, it must be noted the idea of a bus stop this high-tech and by extension expensive, in a neighborhood that is being neglected on every human level, is an answer with relatively higher levels of irony than other ideas to accomplish similar tasks.
 
-![Design](/img/moonshot-1.PNG)
-![Design](/img/moonshot-2.PNG)
+![Design](/img/moonshot-1.png)
+![Design](/img/moonshot-2.png)
 
 The interactive bus stop display will show something similar to scrolling ads for tasks 1,2,4, and 6. It will switch between art in the community, news for development plans of the buildings, politicians, and display submitted advertisements for community events sales and alerts that have been submitted, and recent initiatives and bills pushed by local politicians. For those who want to interact with the display they can long-press to switch to a map of their city. They can click on buildings and either view the art or the construction history or plans. They can switch to a view of local politicians where the image-size of their donors correlates to image size, and they can interact through simple upvote/downvote or long-form commentary. The last view available is that of ads that were submitted of events going on within the community. 
 
