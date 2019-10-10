@@ -68,11 +68,11 @@ Task 1 will involve the user entering their location on a Google map with the vo
 
 ---
 
-paragraph on design 2
+This design is a phone app that uses location services to notify users when nearby local businesses host special events. Not only does this bring together the community, but it can also serve as a greater source of income for the local business, as it can bring in above-average amounts of customers. Also, users can post about their experiences while there directly to commUnity, further tying the business to the community. Another feature is constant updates on new bills that affect users, with opportunities to get involved however possible embedded within.
 
 ![Design](/img/design2.PNG)
 
-paragraph on sketched tasks
+The design is a mobile news and community involvement app that (task 2) notifies people of nearby local businesses offering special deals to community residents. Once people use the QR code to get discounts, they can (task 6) post comments, haikus, or any other art they would like and geotag the business, allowing others to see how much everyone else loves it and how much that business means to them. Users also (task 5) receive newsletter updates, translated into plain English, informing them of new legislation that affects them. At the end of these explanations, there are opportunities for users to (task 1) get in contact directly with politicians and sign petitions if they feel strongly on the matters. 
 
 ---
 
