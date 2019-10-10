@@ -58,7 +58,7 @@ Gabriel is a writer living in Los Angeles. He likes to write poems and short sto
 
 ---
 
-#### commUnity Activism
+#### commUnity Activism app
 
 paragraph on design 1
 
@@ -67,6 +67,8 @@ paragraph on design 1
 Task 1 will involve the user entering their location on a Google map with the voting districts programmed in so the interface can determine who their local and state representatives are. The app will then pull up a page with short blurbs about who their representatives are and how to contact them. Task 3 will allow users to set notifications to appear when certain bills pertaining to gentrification in their area are being considered so that they can contact their representatives to share their opinions. Task 4 will allow users to look up and post information about the histories of their communities and the businesses within them in a format similar to Wikipedia. Task 5 will provide links to a number of relevant services offered in their community including links to pages on their rights as tennants and local business owners.
 
 ---
+
+#### commUnity Events and News app
 
 This design is a phone app that uses location services to notify users when nearby local businesses host special events. Not only does this bring together the community, but it can also serve as a greater source of income for the local business, as it can bring in above-average amounts of customers. Also, users can post about their experiences while there directly to commUnity, further tying the business to the community. Another feature is constant updates on new bills that affect users, with opportunities to get involved however possible embedded within.
 
