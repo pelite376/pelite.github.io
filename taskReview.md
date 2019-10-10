@@ -62,15 +62,15 @@ Gabriel is a writer living in Los Angeles. He likes to write poems and short sto
 
 paragraph on design 1
 
-image of design 1
+![Design](/img/design1.png)
 
-Task 1 will involve the user entering their location on a Google map with the voting districts programmed in so the interface can determine who their local and state representatives are. The app will then pull up a page with short blurbs about who their representatives are and how to contact them. Task 2 will allow users to set notifications to appear when certain bills pertaining to gentrification in their area are being considered so that they can contact their representatives to share their opinions. Task 3 will allow users to look up and post information about the histories of their communities and the businesses within them in a format similar to Wikipedia. Task 4 will provide links to a number of relevant services offered in their community including links to pages on their rights as tennants and local business owners.
+Task 1 will involve the user entering their location on a Google map with the voting districts programmed in so the interface can determine who their local and state representatives are. The app will then pull up a page with short blurbs about who their representatives are and how to contact them. Task 3 will allow users to set notifications to appear when certain bills pertaining to gentrification in their area are being considered so that they can contact their representatives to share their opinions. Task 4 will allow users to look up and post information about the histories of their communities and the businesses within them in a format similar to Wikipedia. Task 5 will provide links to a number of relevant services offered in their community including links to pages on their rights as tennants and local business owners.
 
 ---
 
 paragraph on design 2
 
-image of design 2
+![Design](/img/design2.png)
 
 paragraph on sketched tasks
 
