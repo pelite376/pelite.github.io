@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Task Review/Check-In
+title: Check-In
 ---
 
 ## Task Descriptions
