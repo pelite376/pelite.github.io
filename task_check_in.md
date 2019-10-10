@@ -78,9 +78,12 @@ The design is a mobile news and community involvement app that (task 2) notifies
 
 ---
 
-paragraph on design 3
+General High-Level-Idea: Seeking out information can be difficult without training of how to search. An interactive bus stop tackles both of these issues. For people living in cities where gentrification take place, the bus tends to be one of the most popular modes of transportation. While a person is on their commute, typically to work, the bus stop will provide them information about their community in a passive way. If they are interested in more information they can click with their finger on almost any element to enter a more detailed view. As bus stops serve such a large swath of the community.
 
-image of design 3
+**Note: While generally in this class we are considering ideas that do not have to be one-hundred percent feasible, due to the more intimate nature of this project, it must be noted the idea of a bus stop this high-tech and by extension expensive, in a neighborhood that is being neglected on every human level, is an answer with relatively higher levels of irony than other ideas to accomplish similar tasks.
 
-paragraph on sketched tasks
+![Design](/img/moonshot-1.PNG)
+![Design](/img/moonshot-2.PNG)
+
+The interactive bus stop display will show something similar to scrolling ads for tasks 1,2,4, and 6. It will switch between art in the community, news for development plans of the buildings, politicians, and display submitted advertisements for community events sales and alerts that have been submitted, and recent initiatives and bills pushed by local politicians. For those who want to interact with the display they can long-press to switch to a map of their city. They can click on buildings and either view the art or the construction history or plans. They can switch to a view of local politicians where the image-size of their donors correlates to image size, and they can interact through simple upvote/downvote or long-form commentary. The last view available is that of ads that were submitted of events going on within the community. 
 
