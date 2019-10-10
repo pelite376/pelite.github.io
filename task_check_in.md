@@ -60,7 +60,7 @@ Gabriel is a writer living in Los Angeles. He likes to write poems and short sto
 
 #### commUnity Activism app
 
-paragraph on design 1
+This design is a phone app that consolodates all the information a person might need to combat gentrification in their community into a straightforward and user-friendly environment. Users can easily search legislation, local activists, and ther resources to help them engage with their community in constructive ways. It can get users in touch with local activists and provide them with the resources necessary to effect their own change in a way that is as unintimidating as possible. It also provides information of tennants' and small business' rights in a way that forgoes complicated legal jargon and is generally far more accessible.
 
 ![Design](/img/design1.PNG)
 
