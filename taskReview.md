@@ -53,7 +53,7 @@ Gabriel is a writer living in Los Angeles. He likes to write poems and short sto
 
 *<span style="color:#f54640">Difficult Task</span>*
 
-
+<!--
 ## Initial Designs
 
 ---
@@ -83,4 +83,4 @@ paragraph on design 3
 image of design 3
 
 paragraph on sketched tasks
-
+--->
