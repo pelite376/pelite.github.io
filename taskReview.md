@@ -58,11 +58,13 @@ Gabriel is a writer living in Los Angeles. He likes to write poems and short sto
 
 ---
 
+#### commUnity Activism
+
 paragraph on design 1
 
 image of design 1
 
-paragraph on sketched tasks
+Task 1 will involve the user entering their location on a Google map with the voting districts programmed in so the interface can determine who their local and state representatives are. The app will then pull up a page with short blurbs about who their representatives are and how to contact them. Task 2 will allow users to set notifications to appear when certain bills pertaining to gentrification in their area are being considered so that they can contact their representatives to share their opinions. Task 3 will allow users to look up and post information about the histories of their communities and the businesses within them in a format similar to Wikipedia. Task 4 will provide links to a number of relevant services offered in their community including links to pages on their rights as tennants and local business owners.
 
 ---
 
