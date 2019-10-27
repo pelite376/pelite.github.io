@@ -20,18 +20,15 @@ description: A website all about our project
 
 # List of links in the navigation bar
 navbar-links:
-  Proposal: "proposal"
   UX Research:
-    - CI Plan: "ciPlan"
-    - CI Check-In: "ciCheckIn"
-    - CI Review: "ciReview"
-    - Task Review: "taskReview"
-    - Design Check-In: "task_check_in"
+    - Project Proposal: "proposal"
+    - UX Research Overview: "UX_Overview"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
     - Liv Behrens: "http://ojb2.github.io"
     - Teiheim Edwards: "http://teiheim.github.io"
+  Appendix: "Appendix"
   Credits:
     - Logo: "https://pixabay.com/vectors/brooklyn-new-york-skyline-cityscape-2858985/"
 
