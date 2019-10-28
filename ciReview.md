@@ -17,7 +17,8 @@ There is more of a sense of community in low-income neighbourhoods despite the f
 
 <img src="/img/affinityDiag.png" class="center"> 
 
-##_Themes_
+## _Themes_
+
 *-No recourse
 	*-Many of these families lack time and/or money to effectualize change
 *-Life slowly gets harder
@@ -56,4 +57,5 @@ _How do people communicate with each other?_ Businesses may communicate with loc
 _How often are the tasks performed?_ People may use commUnity as often, or not, as they wish. Living in a low-income neighborhood means people do not always have the time to help others, but if they are looking for a quick bite to eat or maybe a local discount, they can check commUnity to see if anything is available.
 
 _What are the time constraints on the tasks?_ There is effectively no time constraint, other than businesses wanting to post discounts or specials only for finite periods. Otherwise, a business is free to use commUnity so long as it exists.
-What happens when things go wrong? It may be difficult to ensure that the businesses using this platform are of the appropriate size and that they are doing so for the appropriate reasons. To prevent this, commUnity will keep moderators to ensure that only local businesses are using the service to promote themselves, and that all comments and posts are appropriate to the topic. Eventually, communities that adopt the service would come to appreciate the service enough that the community can support itself in this respect. 
+
+_What happens when things go wrong?_ It may be difficult to ensure that the businesses using this platform are of the appropriate size and that they are doing so for the appropriate reasons. To prevent this, commUnity will keep moderators to ensure that only local businesses are using the service to promote themselves, and that all comments and posts are appropriate to the topic. Eventually, communities that adopt the service would come to appreciate the service enough that the community can support itself in this respect. 
