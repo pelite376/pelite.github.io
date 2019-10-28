@@ -39,7 +39,7 @@ In the future with much more time, a diary study could yield excellent results. 
 
 _Who is going to use the design?_ Our design is intended for use by the residents of neighborhoods that are at risk of experiencing gentrification. This includes people of all ages, so long as they feel that they belong to the existing community and want to get involved.
 
-_What tasks do they now perform?_ This is the biggest issue at hand, because currently people who are living in gentrified areas have virtually no way of fighting gentrification given their resources and availability. As a result, they do not perform any tasks beyond watching residences and businesses get torn down and replaced overnight.
+_What tasks do they now perform?_ This is the biggest issue at hand, because currently people who are living in gentrified areas have virtually no way of fighting gentrification given their resources and availability. As a result, we have found that many can not do much beyond just staying where they are, which is already difficult enough.
 
 _What tasks are desired?_ The goal of commUnity is to provide people with more community awareness, so that they can more effectively learn about and support their local communities. This allows users to strengthen their communities from within, potentially even helping to enrich the preexisting culture and sense of community by allowing users to learn about local community favorites that they hadn’t heard of before.
 
