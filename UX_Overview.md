@@ -3,7 +3,7 @@ layout: page
 title: UX Research Overview
 ---
 
-## Some Catchy Title
+## Preserving a CommUnity
 
 ### Design Team
 * Liv Behrens: designer, researcher
