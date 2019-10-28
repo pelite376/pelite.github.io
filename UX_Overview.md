@@ -26,14 +26,14 @@ Our design is intended for use by everyone possible, as the ultimate goal is to 
 
 Original answers to our task analysis questions can be found [here](https://pelite376.github.io/ciReview/).
 
-### Proposed Design Sketches
+### Proposed Design Sketches - "3x4"
 
 All of our original proposals can be found [here](https://pelite376.github.io/task_check_in/).
 
 
-### Written Scenarios - "3x4"
+### Written Scenarios - "1x2"
 
 
-### Storyboards - "1x2"
+### Storyboards
 
 
