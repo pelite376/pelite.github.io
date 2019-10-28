@@ -33,7 +33,17 @@ All of our original proposals can be found [here](https://pelite376.github.io/ta
 
 ### Written Scenarios - "1x2"
 
+####Inform the People/Build Community
+Let us say Jazmine has noticed that her community is changing. Her peers and neighbors have noticed as well but do not know how to approach such a problem or where to voice their frustrations (T1-1). The people who have started to use the new more expensive buildings have little awareness of the land that they use. Jazmine thinks that if she were to create more awareness for the issue of gentrification and make her community feel as if they have more control in their neighborhood she could create a movement to halt legislation that would cause further damage to her community (T1-2). Most recently a cleaners has been converted into a high-end coffee shop. In order to show the history behind this building she decided to use community. On a busy night she sets it up and it displays the old cleaners over the new building (T1-3). People come and interact with the piece and while looking at the history of the building see the politicians who allowed and encouraged this development and who donated to them (T1-4). The display attracts a lot of attention as it has been set up and even people who do not interact with the piece have their attention drawn to it, learning about this new building which has disrupted the community it was situation in. 
+
+####Organized Protest
+Let us say Tracey-Ann wants to organize a protest in city hall about the recent developments that have taken place in her city. She recently used CommUnity on a newly developed building. Moved emotionally, members of the community left comments and made art to pertaining to the building which no longer provides a necessity that they needed. She wants to organize a protest of city-hall to oppose recent zoning changes in her area (T2-1). It is a closed meeting so it will be hard to gain the attention of the people in attendance from outside the building. She has gathered up comments and art pieces from concerned people around the city, old and young. Tracey-Ann organizes her protest outside of city-hall and a noticeable amount of people show up and protest. She decided to use CommUnity to broadcast her community’s feelings against the recent developments in their city which has only served to push them out of their homes. While the people who are part of the meeting still strive to ignore this display (T2-2), because of the size it catches on with social media, and gets picked up by news outlets. Hopefully this exposure will put pressure on the politicians to act on enacting legislation to protect the community(T2-3).
+*Note: Again it must be noted that this project cannot be seen as panacea for social movements. Little Miss Flint has gained traction on social media and on mainstream news, but there is still no action in enacting a government solution in actually providing the people of Flint Michigan usable water. Hopefully this project will serve as another tool for protesters and help them achieve their pre established goals.
+
+
 
 ### Storyboards
 
-
+![Design](/img/scene-1.png)
+![Design](/img/scene-2.png)
+![Design](/img/scene-3.png)
