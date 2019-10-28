@@ -19,16 +19,16 @@ There is more of a sense of community in low-income neighbourhoods despite the f
 
 ## _Themes_
 
-*-No recourse
-	*-Many of these families lack time and/or money to effectualize change
-*-Life slowly gets harder
-	*-It seems that there is a boiling point reached before people eventually must move
-*-Slow trickle of gentrifiers 
-	*-White people with money tend to patronize expensive new businesses 
-*-No politics
-	*-No one who spoke to us mentioned the role the government plays in gentrification
-*-Construction as a force of violence
-	*-The buildings are nicer but are obviously not for the people in the area
+* -No recourse
+	* -Many of these families lack time and/or money to effectualize change
+* -Life slowly gets harder
+	* -It seems that there is a boiling point reached before people eventually must move
+* -Slow trickle of gentrifiers 
+	* -White people with money tend to patronize expensive new businesses 
+* -No politics
+	* -No one who spoke to us mentioned the role the government plays in gentrification
+* -Construction as a force of violence
+	* -The buildings are nicer but are obviously not for the people in the area
 
 
 The people who were interviewed all expressed very similar experiences. There were always telltale signs that gentrification was happening. These establishments provide very little if any actual use to the people living in the surrounding area. Business that people needed to survive would slowly be replaced by relatively useless and expensive establishments. By the time the laundromat or the grocery store is gone, it is too late. The end result always seems to be that low income people move to another place they will probably make end up also making “trendy” at some point. There is no way to unite these people to services/goods that they have lost. 
