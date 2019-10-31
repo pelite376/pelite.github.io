@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Task Review
----
-
-## Paper Prototypes
-
+title: Paper Prototype
 ---
 
 # Overview:
