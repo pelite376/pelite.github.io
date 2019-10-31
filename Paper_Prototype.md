@@ -19,12 +19,12 @@ Upon walking up to the interface, one is greeted by a sample home screen as show
 (This is where the image of the blank home screen goes)
 
 # Task 1: Geotagging art to the building
-After pressing the green plus sign, users are greeted with options to upload photos to their canvas (via AirDrop or something similar), select colors and draw, and write text. These can be combined into one image. Once the user walks away, their image increases in size and is uploaded to the building for all to see.
+After pressing the green plus sign, users are greeted with options to upload photos to their canvas (via AirDrop or something similar), select colors and draw, and write text. In the write section, users have the option to select text color, font, and size. In the draw section, users have the option to select color and pen size. In the photo section, users have the option to submit their own photos as part of the collage, or as the entire post (as these photos' sizes can be changed). These can all be combined into one image. Once the user walks away, their image magnifies and self-uploads to the building for all to see.
 
 (This is where the image(s) of the art section go)
 
 # Task 2: Connecting people to local politicans
-Upon tapping the "politician" icon, users see the array of all of their local politicians. Pressing the "i" next to any of their images pulls up additional information (phone number, email, etc.).
+Upon tapping the "politician" icon, users see the array of all of their local politicians. In this screen, users only see the faces, names, and titles of each of these individuals, but pressing the "i" next to any of their images pulls up additional information (phone number, email, etc.). This information is meant for users to contact politicians on their own terms if they feel strongly and wish to speak to them. 
 
 (This is where the politician stuff goes)
 
