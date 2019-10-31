@@ -13,8 +13,8 @@ Here is an overview of our entire paper prototype:
 
 (This is where that image goes)
 
-Using the interface: 
-Upon walking up to the interface, one is greeted by a sample home screen as shown below. This home screen has a few simple icons depicting what can be done, and each can be touched to learn more about them.
+# Using the interface: 
+People walking on the street will notice that a building that has been recently gentrified appears to look like its past self, before the gentrification. They may be intrigued by the various pieces of passionate art that are also shown on this display. Upon walking up to the interface, users understand that the entire interface is a touch screen and are greeted by a sample home screen as shown below. This home screen has a few simple icons depicting what can be done, and each can be touched to learn more about them.
 
 (This is where the image of the blank home screen goes)
 
