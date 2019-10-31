@@ -23,6 +23,8 @@ navbar-links:
   UX Research:
     - Project Proposal: "proposal"
     - UX Research Overview: "UX_Overview"
+  UX Design:
+    - Paper Prototypes: "Paper_Prototype"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
