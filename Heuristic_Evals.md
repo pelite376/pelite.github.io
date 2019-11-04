@@ -52,5 +52,6 @@ Here is the evaluation writted by Eric, conducted by Peter and Teiheim:
 * When the user is ready to post, they may press the new green check button, where they will be prompted with a message confirming their intent to post content.
  
 * The X has been switched to a back button to allow for greater clarity. 
+![Changeback](/img/BackButtonCheckMark.jpg)
  
 Disclaimer: Some of the heuristic violations were due to the paper prototype not accurately representing the context of the project. For example, users felt like they wouldn't be able to see which posts they are flagging closely, when in reality these posts will be scaled to the size of a building, so they will be very visible and clear.
