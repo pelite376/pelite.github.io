@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Task Review
+title: Heuristic Evaluations
 ---
+
+Below are all of our heuristic evaluations, aggregated into a single table:
 
 | Heuristic Broken | Description | Severity |
 | :------ |:--- | :--- |
@@ -13,4 +15,8 @@ title: Task Review
 | 1 | feedback on what happens after flagging content | 2 |
 | 4 | consistency on meaning of the "x"- when adding content it saves/pushes, when on other content it goes back | 4 |
 | 1 | when your post is added to the building, it might not be clear where it goes. Maybe content highlighting & a message would help | 3 |
-
+| 3 | save/done buttons for "art" creation | 2 |
+| 3 | choosing where art piece goes | 2 |
+| 6 | blowing up images of art to look at more closely/report | 2 |
+| 3 | choosing "wrong" order of buttons | 1 |
+| 1 | confirming that "art" has been saved, report submitted | 2 |
