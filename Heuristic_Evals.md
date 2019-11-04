@@ -3,6 +3,8 @@ layout: page
 title: Heuristic Evaluations
 ---
 
+![Evals](/img/heval1.png) ![Evals](/img/heval2.png) ![Evals](/img/heval3.png)
+
 Below are all of our heuristic evaluations.
 
 The following are evaluations written by Phoebe and Michaela, conducted by Liv:
@@ -31,15 +33,23 @@ Here is the evaluation writted by Eric, conducted by Peter and Teiheim:
 
 * "Send me a message" (on the politician page) appears to do something to users but does not do anything in our design. It is confusing for the viewer so we have replaced it. 
 
-* We have added an option to discard the message. It makes the design as a whole more cohesive and more intuitive to use. 
+![Evals](/img/politicians.jpg)
+
+* We have added an option to discard the message. It makes the design as a whole more cohesive and more intuitive to use.
+
+![Evals](/img/discard.jpg)
 
 * We decided to opt for a check-mark to confirm to users that their content has been posted.
 
+![Evals](/img/post.jpg)
+
 * “The post has been sent to Admin for review.” Has been added after flagging content. This information appears as a pop-up box, which can be closed.
+ 
+ ![Evals](/img/flag.jpg)
  
 * One miscommunication between facilitators and users regards where the posted content goes. We will be clearer in the future that the content is posted to the building by creating a mini-version of the content and pasting it to the wall next to our display.
  
-* When the user is ready to post, they may simply walk away, or they may press the new green check button, where they will be prompted with a message confirming their intent to post content.
+* When the user is ready to post, they may press the new green check button, where they will be prompted with a message confirming their intent to post content.
  
 * The X has been switched to a back button to allow for greater clarity. 
  
