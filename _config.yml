@@ -25,6 +25,7 @@ navbar-links:
     - UX Research Overview: "UX_Overview"
   UX Design:
     - Paper Prototypes: "Paper_Prototype"
+    - Heuristic Evaluations: "heuristicEvaluations"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
