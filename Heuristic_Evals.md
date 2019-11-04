@@ -29,18 +29,18 @@ Here is the evaluation writted by Eric, conducted by Peter and Teiheim:
 | 1 | When flagging a post, you don't know what is happening when the post is removed | 1 |
 
 
-* Send me a message appears to do something to users but does not do anything in our design. It is confusing for the viewer so we have replaced it. 
+* "Send me a message" (on the politician page) appears to do something to users but does not do anything in our design. It is confusing for the viewer so we have replaced it. 
 
 * We have added an option to discard the message. It makes the design as a whole more cohesive and more intuitive to use. 
 
-* It is ambiguous as to what content you have selected to flag. We decided to opt for a check-mark to show what has been flagged on a post.
+* We decided to opt for a check-mark to confirm to users that their content has been posted.
 
-* “The post has been sent to Admin for review.” Has been added after flagging content. It appears and then it fades out after a few seconds
+* “The post has been sent to Admin for review.” Has been added after flagging content. This information appears as a pop-up box, which can be closed.
  
-* For our content we have added in our demonstration that when someone has added a post to the building the demonstrator will be post a piece of paper (the art) on top of the piece of paper with the building on it
+* One miscommunication between facilitators and users regards where the posted content goes. We will be clearer in the future that the content is posted to the building by creating a mini-version of the content and pasting it to the wall next to our display.
  
-* When the user has selected an element to post, the other posting buttons will disappear and a green check will appear at the bottom to allow them to submit that post. 
+* When the user is ready to post, they may simply walk away, or they may press the new green check button, where they will be prompted with a message confirming their intent to post content.
  
-* The X has been switched for a back button to allow for greater clarity. 
+* The X has been switched to a back button to allow for greater clarity. 
  
-* Some of the heuristic violations were due to the paper prototype not accurately representing the context of the project 
+Disclaimer: Some of the heuristic violations were due to the paper prototype not accurately representing the context of the project. For example, users felt like they wouldn't be able to see which posts they are flagging closely, when in reality these posts will be scaled to the size of a building, so they will be very visible and clear.
