@@ -12,8 +12,9 @@ Our protocol included first presenting our group with a scenario: they are walki
 Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. Our posters presented a few issues: for one, they didn't know how to select a different style of paintbrush and font, because these selectors disappeared, so our new design will feature them as permanent elements of the display. Also, the users didn't know whether "AirDrop to: ..." meant they were adding or receiving a photo from their camera roll, so we should make this information more explicit. Lastly, one of our users confused the red flag for a "help" button, so we will create a new button making its function of flagging content more explicit.
 
 ## Findings: Cognitive Walkthrough
-
+<!--
 ![Evals](/img/heval1.png) ![Evals](/img/heval2.png) ![Evals](/img/heval3.png)
+-->
 
 Below are all of our heuristic evaluations.
 
