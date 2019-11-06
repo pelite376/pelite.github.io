@@ -12,7 +12,6 @@ Our protocol included first presenting our group with a scenario: they are walki
 Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. Our posters presented a few issues: for one, they didn't know how to select a different style of paintbrush and font, because these selectors disappeared, so our new design will feature them as permanent elements of the display. Also, the users didn't know whether "AirDrop to: ..." meant they were adding or receiving a photo from their camera roll, so we should make this information more explicit. Lastly, one of our users confused the red flag for a "help" button, so we will create a new button making its function of flagging content more explicit.
 
 ## Findings
-TEY-
 
 Present a digitized table or list of results from your **cognitive walk-through.** For each identified issue, include:
 * An image of the relevant portion of the prototype.
@@ -27,10 +26,10 @@ Present a table or list of results from your first **usability test.** For each 
 * For negative incidents, an image and explanation of any revision implemented as a result.
 
 ## Revised Prototype
-PTR-
+
 Submit detailed images of your current paper prototype, as revised in this process. Include both:
-An overview image that shows your entire paper prototype.
-Detailed images showing each component as you walk through your two primary tasks.
+* An overview image that shows your entire paper prototype.
+* Detailed images showing each component as you walk through your two primary tasks.
 
 ## Our Plan Going Forward
 Overall, we think that we gained a lot from watching two participants, both of whom know each other, use our design, as this reflects a likely scenario of who would actually use our product. This is not to say, however, that singletons would never also use our design. For this reason, we would be interested in conducting at least one usability test with only a single individual, rather than with a group, to see if that individual would use the product differently than would a group of two or more. Beyond this, we still think it is more likely that a group of people who know each other are more likely to use our product, so our third usability test will, once again, be with a group of users (likely two), to iron out any final issues in our design. Since our first usability test ran smoothly, we plan to keep the roles as they were–– Liv as Computer, Peter as Facilitator, and Teiheim as Notetaker, so that there are no issues on our end and the study can focus on issues with the product. As for new approaches, we plan to set up a camera beforehand to record our users using the design, as opposed to simply recording the voices of our participants, as we had the first time. While it was nice to record their voices, we think it may also be useful to watch them ineract with the product on a physical level as well. 
