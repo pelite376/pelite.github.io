@@ -77,11 +77,33 @@ Present a table or list of results from your first **usability test.** For each 
 * For negative incidents, the severity of the issue assigned by the team.
 * For negative incidents, an image and explanation of any revision implemented as a result.
 
+### Painting/Typing Issues, Severity: 3
+
+Users did not know how to change colors, pen sizes, or font styles after selecting their initial styles. We have changed the layout such that these elements are now permanent fixtures beside the original "screen."
+
+**image of the fixed design layout goes here**
+
+### Misunderstanding the "Photos" Section, Severity: 2
+
+Users did not know whether the photo section was to be used for adding photos or taking photos, nor did they know whether they were supposed to send or receive a photo during the screen that says "AirDrop to: ..." We addressed this layout issue below:
+
+**image of addressed issue:**
+
+### Misunderstanding Flag, Severity: 1
+
+One of our users confused the red flag for a "help" button, so we will create a new button making its function of flagging content more explicit, as shown below:
+
+**image of new flag button**
+
 ## Revisions: First Usability Test (this part not done)
 
-Submit detailed images of your current paper prototype, as revised in this process. Include both:
-* An overview image that shows your entire paper prototype.
-* Detailed images showing each component as you walk through your two primary tasks.
+Here is an overview of our revised prototype:
+
+**image of the revised prototype**
+
+And...
+
+**Detailed images showing each component as you walk through your two primary tasks.**
 
 ## Our Plan Going Forward
 Overall, we think that we gained a lot from watching two participants, both of whom know each other, use our design, as this reflects a likely scenario of who would actually use our product. This is not to say, however, that singletons would never also use our design. For this reason, we would be interested in conducting at least one usability test with only a single individual, rather than with a group, to see if that individual would use the product differently than would a group of two or more. Beyond this, we still think it is more likely that a group of people who know each other are more likely to use our product, so our third usability test will, once again, be with a group of users (likely two), to iron out any final issues in our design. Since our first usability test ran smoothly, we plan to keep the roles as they were–– Liv as Computer, Peter as Facilitator, and Teiheim as Notetaker, so that there are no issues on our end and the study can focus on issues with the product. As for new approaches, we plan to set up a camera beforehand to record our users using the design, as opposed to simply recording the voices of our participants, as we had the first time. While it was nice to record their voices, we think it may also be useful to watch them ineract with the product on a physical level as well. 
