@@ -12,16 +12,19 @@ Our protocol included first presenting our group with a scenario: they are walki
 Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. Our posters presented a few issues: for one, they didn't know how to select a different style of paintbrush and font, because these selectors disappeared, so our new design will feature them as permanent elements of the display. Also, the users didn't know whether "AirDrop to: ..." meant they were adding or receiving a photo from their camera roll, so we should make this information more explicit. Lastly, one of our users confused the red flag for a "help" button, so we will create a new button making its function of flagging content more explicit.
 
 ## Findings
-TEY -Present a table or list of results from your first usability test. For each critical incident, include:
-An image of the relevant portion of the prototype.
-Description of the incident, remembering that these can be either positive or negative.
-For negative incidents, the severity of the issue assigned by the team.
-For negative incidents, an image and explanation of any revision implemented as a result.
-esent a table or list of results from your first usability test. For each critical incident, include:
-An image of the relevant portion of the prototype.
-Description of the incident, remembering that these can be either positive or negative.
-For negative incidents, the severity of the issue assigned by the team.
-For negative incidents, an image and explanation of any revision implemented as a result.
+TEY-
+
+Present a digitized table or list of results from your **cognitive walk-through.** For each identified issue, include:
+* An image of the relevant portion of the prototype.
+* The identified issue, including the believability issue identified in walkthrough.
+* The severity of the issue assigned by the team.
+* An image and explanation of any revision implemented as a result.
+
+Present a table or list of results from your first **usability test.** For each critical incident, include:
+* An image of the relevant portion of the prototype.
+* Description of the incident, remembering that these can be either positive or negative.
+* For negative incidents, the severity of the issue assigned by the team.
+* For negative incidents, an image and explanation of any revision implemented as a result.
 
 ## Revised Prototype
 PTR-
