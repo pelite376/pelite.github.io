@@ -117,14 +117,14 @@ And...
 ![localPolitician1](/img/lc1.png)
 ![localPolitician2](/img/lp0.png)
 ![localPolitician3](/img/lp.png)
-![localPolitician4](/img/lc3.png)
+![localPolitician4](/img/lc3.jpg)
 
 ***Posting and Flagging Content***
 ![postContent1](/img/pc1.jpg)
-![postContent2](/img/fc2.png)
-![postContent3](/img/fc3.png)
-![postContent4](/img/fc4.png)
-![postContent5](/img/fc5.jpg)
+![postContent2](/img/pc2.png)
+![postContent3](/img/pc3.png)
+![postContent4](/img/pc4.png)
+![postContent5](/img/pc5.jpg)
 
 
 
