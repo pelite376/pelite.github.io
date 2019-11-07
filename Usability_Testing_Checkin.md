@@ -120,14 +120,15 @@ And...
 ![localPolitician4](/img/lc3.jpg)
 
 ***Posting and Flagging Content***
-![postContent1](/img/pc1.jpg)
+
+****Post Content****
 ![postContent2](/img/pc2.png)
 ![postContent3](/img/pc3.png)
+![postContent1](/img/pc1.jpg)
 ![postContent4](/img/pc4.png)
 ![postContent5](/img/pc5.jpg)
 
-
-
+****Flag Content****
 ![FlagContent1](/img/fc1.png)
 ![FlagContent3](/img/fc3.png)
 ![FlagContent4](/img/fc4.png)
