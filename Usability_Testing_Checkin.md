@@ -81,14 +81,12 @@ Present a table or list of results from your first **usability test.** For each 
 
 Users did not know how to change colors, pen sizes, or font styles after selecting their initial styles. We have changed the layout such that these elements are now permanent fixtures beside the original "screen."
 
-**image of the fixed design layout goes here**
 ![bigLayout](/img/bigLayout.png)
 
 ### Misunderstanding the "Photos" Section, Severity: 2
 
 Users did not know whether the photo section was to be used for adding photos or taking photos, nor did they know whether they were supposed to send or receive a photo during the screen that says "AirDrop to: ..." We addressed this layout issue below:
 
-**image of addressed issue:**
 ![newAirdrop](/img/newAirdrop.png)
 
 ### Misunderstanding Flag, Severity: 1
@@ -97,21 +95,16 @@ One of our users confused the red flag for a "help" button, so we will create a 
 
 ![NewFlag](/img/newflag.png)
 
-**image of new flag button**
-
 ## Revisions: First Usability Test -
 
 Here is an overview of our revised prototype:
 
-**image of the revised prototype**
 ![overview](/img/ov1.png)
 ![overview](/img/ov2.png)
 ![overview](/img/ov3.png)
 ![overview](/img/ov4.png)
 
 And...
-
-**Detailed images showing each component as you walk through your two primary tasks.**
 
 ***Looking at Local Politicians***
 ![localPolitician1](/img/lc1.png)
