@@ -71,12 +71,6 @@ Disclaimer: Some of the heuristic violations were due to the paper prototype not
 
 ## Findings: First Usability Test -
 
-Present a table or list of results from your first **usability test.** For each critical incident, include:
-* An image of the relevant portion of the prototype.
-* Description of the incident, remembering that these can be either positive or negative.
-* For negative incidents, the severity of the issue assigned by the team.
-* For negative incidents, an image and explanation of any revision implemented as a result.
-
 ### Painting/Typing Issues, Severity: 3
 
 Users did not know how to change colors, pen sizes, or font styles after selecting their initial styles. We have changed the layout such that these elements are now permanent fixtures beside the original "screen."
@@ -104,7 +98,6 @@ Here is an overview of our revised prototype:
 ![overview](/img/ov3.png)
 ![overview](/img/ov4.png)
 
-And...
 
 ***Looking at Local Politicians***
 ![localPolitician1](/img/lc1.png)
