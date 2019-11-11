@@ -15,36 +15,14 @@ Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. 
 
 | Prototype | Issue | Severity |
 | :------ |:--- | :--- |
-| ![PoliticiansInterface](/img/politicians1.jpg) | hard to find politicians with no search feature | 1 |
-| ![PlusSign](/img/plus.jpg) | unclear how to add media to a post | 3 |
+| ![Politicians](/img/politicians1.jpg) | hard to find politicians with no search feature | doesn't significantly impact functionality |
+| ![Plus](/img/plus.jpg) | unclear how to add media to a post | doesn't prevent functionality but inhibits full access |
 
 ## Revisions: Cognitive Walkthrough
 
-* "Send me a message" (on the politician page) appears to do something to users but does not do anything in our design. It is confusing for the viewer so we have replaced it. 
-
-![Evals](/img/politicians.jpg)
-
-* We have added an option to discard the message. It makes the design as a whole more cohesive and more intuitive to use.
-
-![Evals](/img/discard.jpg)
-
-* We decided to opt for a check-mark to confirm to users that their content has been posted.
-
-![Evals](/img/post.jpg)
-
-* “The post has been sent to Admin for review.” Has been added after flagging content. This information appears as a pop-up box, which can be closed.
- 
- ![Evals](/img/flag.jpg)
- 
-* One miscommunication between facilitators and users regards where the posted content goes. We will be clearer in the future that the content is posted to the building by creating a mini-version of the content and pasting it to the wall next to our display.
- 
-* When the user is ready to post, they may press the new green check button, where they will be prompted with a message confirming their intent to post content.
- 
-* The X has been switched to a back button to allow for greater clarity. 
-![Changeback](/img/BackButtonCheckMark.jpg)
- 
-Disclaimer: Some of the heuristic violations were due to the paper prototype not accurately representing the context of the project. For example, users felt like they wouldn't be able to see which posts they are flagging closely, when in reality these posts will be scaled to the size of a building, so they will be very visible and clear.
-
+| :------ |:--- | :--- |
+| ![PoliticiansInterface](/img/polisearch.jpg) | The politicians interface now has a search function. |
+| ![PlusSign](/img/newplussign.jpg) | The plus sign is now labeled so that users understand its purpose. |
 
 ## Findings: First Usability Test -
 
