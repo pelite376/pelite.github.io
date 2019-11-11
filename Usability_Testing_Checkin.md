@@ -14,7 +14,7 @@ Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. 
 ## Findings: Cognitive Walkthrough
 
 | Prototype | Issue | Severity |
-| :------ |:--- | :--- |
+| :--- |:--- | :--- |
 | ![Politicians](/img/politicians1.jpg) | hard to find politicians with no search feature | 1- doesn't significantly impact functionality |
 | ![Plus](/img/plus.jpg) | unclear how to add media to a post | 2- doesn't prevent functionality but inhibits full access |
 
@@ -22,7 +22,7 @@ Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. 
 | Image | Revision |
 | :--- |:--- |
 | ![PoliticiansInterface](/img/polisearch.jpg) | The politicians interface now has a search function. |
-| ![PlusSign](/img/newplussign.jpg) | Users could not always tell the button's purpose. The new plus sign is now labeled so that users understand its purpose. |
+| ![Plus](/img/newplussign.jpg) | Users didn't understand the button's purpose. The new plus sign is labeled to fix this. |
 
 ## Findings: First Usability Test -
 
