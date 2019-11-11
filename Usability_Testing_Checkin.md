@@ -21,8 +21,8 @@ Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. 
 ## Revisions: Cognitive Walkthrough
 
 | :------ |:--- | :--- |
-| ![PoliticiansInterface](/img/polisearch.jpg) | The politicians interface now has a search function. |
-| ![PlusSign](/img/newplussign.jpg) | The plus sign is now labeled so that users understand its purpose. |
+| ![PoliticiansInterface](/img/polisearch.jpg) | 1- The politicians interface now has a search function. |
+| ![PlusSign](/img/newplussign.jpg) | 2- Users could not always tell the button's purpose. The new plus sign is now labeled so that users understand its purpose. |
 
 ## Findings: First Usability Test -
 
