@@ -19,8 +19,8 @@ Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. 
 | ![Plus](/img/plus.jpg) | unclear how to add media to a post | 2- doesn't prevent functionality but inhibits full access |
 
 ## Revisions: Cognitive Walkthrough
-
-| :------ |:--- |
+| Image | Revision |
+| :--- |:--- |
 | ![PoliticiansInterface](/img/polisearch.jpg) | The politicians interface now has a search function. |
 | ![PlusSign](/img/newplussign.jpg) | Users could not always tell the button's purpose. The new plus sign is now labeled so that users understand its purpose. |
 
