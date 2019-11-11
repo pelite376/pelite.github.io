@@ -9,12 +9,6 @@ After the first test we made changes to the flag icon and switched it to a stop 
 
 
 ## Usability Test 1
-Discuss your three usability tests. Provide a description of each test, including the participant, the environment, why you chose this participant and environment, the test protocol, and the roles of each team member who participated in the test. Briefly discuss revisions you made in your process and prototype over the course of your testing.
-Present a table or list of results from your three usability tests. For each critical incident, include:
-  An image of the relevant portion of the prototype.
-  Description of the incident, remembering that these can be either positive or negative.
-  For negative incidents, the severity of the issue assigned by the team.
-  For negative incidents, an image and explanation of any revision implemented as a result.
 ![UsabilityTestOne](/img/ut2.png)
 
 ## Usability Test 2
