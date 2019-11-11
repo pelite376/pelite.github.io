@@ -12,34 +12,11 @@ Our protocol included first presenting our group with a scenario: they are walki
 Our Computer was Liv, our Facilitator was Peter, and our Notetaker was Teiheim. Our posters presented a few issues: for one, they didn't know how to select a different style of paintbrush and font, because these selectors disappeared, so our new design will feature them as permanent elements of the display. Also, the users didn't know whether "AirDrop to: ..." meant they were adding or receiving a photo from their camera roll, so we should make this information more explicit. Lastly, one of our users confused the red flag for a "help" button, so we will create a new button making its function of flagging content more explicit.
 
 ## Findings: Cognitive Walkthrough
-<!--
-![Evals](/img/heval1.png) ![Evals](/img/heval2.png) ![Evals](/img/heval3.png)
--->
 
-Below are all of our heuristic evaluations.
-
-The following are evaluations written by Phoebe and Michaela, conducted by Liv:
-
-| Heuristic Broken | Description | Severity |
+| Prototype | Issue | Severity |
 | :------ |:--- | :--- |
-| 3 | not clear how to save work, also an option to discard would be helpful | 3 |
-| 1 | Seems like there should be a way to engage with the politician page | 1 |
-| 1 | feedback on what happens after flagging content | 2 |
-| 4 | consistency on meaning of the "x"- when adding content it saves/pushes, when on other content it goes back | 4 |
-| 1 | when your post is added to the building, it might not be clear where it goes. Maybe content highlighting & a message would help | 3 |
-| 3 | save/done buttons for "art" creation | 2 |
-| 3 | choosing where art piece goes | 2 |
-| 6 | blowing up images of art to look at more closely/report | 2 |
-| 3 | choosing "wrong" order of buttons | 1 |
-| 1 | confirming that "art" has been saved, report submitted | 2 |
-
-Here is the evaluation writted by Eric, conducted by Peter and Teiheim:
-
-| Heuristic Broken | Description | Severity |
-| :------ |:--- | :--- |
-| 2 | "Send me a message" on the politician board is not interactive | 1 |
-| 4 | "+" has 2 rules, add to your board and add to display | 2 |
-| 1 | When flagging a post, you don't know what is happening when the post is removed | 1 |
+| ![PoliticiansInterface](/img/politicians1.jpg) | hard to find politicians with no search feature | 1 |
+| ![PlusSign](/img/plus.jpg) | unclear how to add media to a post | 3 |
 
 ## Revisions: Cognitive Walkthrough
 
