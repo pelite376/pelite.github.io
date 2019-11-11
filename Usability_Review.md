@@ -29,8 +29,7 @@ Submit detailed images of your final paper prototype, as revised in this process
 
 # Our Most Critical Issues:
 
-Discuss two to four revisions that you consider to be the most salient and important modifications to your paper prototype based on issues identified in inspection, usability testing, or critique. 
-These issues may already be included in the above list, but discuss them in more detail and argue why detecting and fixing them is important to your design.
+A common theme among our most salient modifications was that of optimizing functionality. We felt that each of these issues greatly limited the potential usability of our product by confusing the user into thinking there isn't any more to do.
 
 ## Issue 1: Illegible Buttons
 Each of our users struggled, to some degree, with understanding the functionality of each button. Though our original goal was to create a design that felt seamless and minimalistic, the result ended up being a confusing display that slowed productivity. Especially because this is not an interface that is already well-integrated into society, we think it's important that we forego the sleeker design for something that helps guide users through the process. The end result, however, is still something that is fairly minimalistic, as there are only a few buttons with which the users can interact anyways. We hope that implementing this change will make our design something that does not confuse our users as much.
