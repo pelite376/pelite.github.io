@@ -27,6 +27,7 @@ navbar-links:
     - Paper Prototypes: "Paper_Prototype"
     - Heuristic Evaluations: "Heuristic_Evals"
     - Usability Testing Check-In: "Usability_Testing_Checkin"
+    - Usability Testing Review: "Usability_Review"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
