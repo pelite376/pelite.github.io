@@ -56,3 +56,16 @@ Many of our users elected to first press the politician button (as it was near t
 
 ## Issue 3: Adding Multiple Types of Art
 Many of our users felt ready to post content after adding only one type of media (only a photo, drawing, or block of text). While it's possible that the content they posted was all they had intended to post, after discussing with them we realized that there was a different issue: they did not know that different types of content can be mixed onto a single post. We thought this was a significant issue because it means users feel extremely limited in the scope of their posts, and this means that users would use our product without ever exploiting its full functionality. Rather, they would go about posting mediocre content that would not be as effective. For this reason, we have tried to make it very clear that users can mix content types by keeping all three buttons on the navigation bar until users post. No longer will they need to press the "+" every time they wish to add another element. Instead, they can freely switch between content types and post when they are done. 
+
+# Walkthrough
+
+|:---|:---|
+| Home Screen | ![HomeScreen](/img/homePage.jpg) |
+| Info Page | ![InfoPage](/img/infoPage.jpg) |
+| Politician Info | ![Politicians](/img/polisearch.jpg) |
+| Flag Content | ![FlagContent](/img/flag1.jpg) |
+| Flag Content | ![FlagContent](/img/flag2.jpg) |
+| Create New Post | ![NewPost](/img/addContent.jpg) |
+| Text Post | ![Text](/img/artPost.jpg) |
+| Art Post | ![Art](/img/textPost.jpg) |
+| Photo Post | ![Photo](/img/photoPost.jpg) |
