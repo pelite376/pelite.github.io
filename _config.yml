@@ -28,6 +28,7 @@ navbar-links:
     - Heuristic Evaluations: "Heuristic_Evals"
     - Usability Testing Check-In: "Usability_Testing_Checkin"
     - Usability Testing Review: "Usability_Review"
+    - Digital Mockup: "Digital_Mockup"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
