@@ -9,6 +9,7 @@ Our group's design, fortunately, was relatively easy to convert directly to a di
 ## Overview
 
 Below is an overview of our entire digital mockup:
+![art](/img/hifi_overview.png)
 
 ## Task 1: Adding Art to Buildings
 
