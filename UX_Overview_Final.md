@@ -26,3 +26,11 @@ subtitle: Showing the commUnity What it Means to You
 
 ## Digital Mockup
 (1 paragraph) Present your digital mockup. Convey the critical aspects of your design, including your two primary tasks. Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. Briefly discuss any changes you made in response to critique. Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
+
+## Discussion
+(1 paragraph)
+This is new content to generate! Reflect upon and discuss your project and your results. For example:
+What did you learn from the process of iterative design?
+How did the process shape your final design?
+How have your tasks changed as a result of your usability tests?
+Do you think you could have used more, or fewer, iterations upon your design?
