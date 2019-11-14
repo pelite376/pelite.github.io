@@ -17,7 +17,7 @@ From the home screen, users click the "+," after which point they are prompted t
 Below are images showing the screens of creating an art post:
 
 |:---|:---|:---|:---|
-| ![art](/img/postScreen.jpg) | ![art](/img/selectColor.jpg) | ![art](/img/selectSize.jpg) | ![art](/img/selectFont.jpg) |
+| ![art](/img/postScreen.png) | ![art](/img/selectColor.png) | ![art](/img/selectSize.png) | ![art](/img/selectFont.png) |
 
 ## Task 2: Finding Politician Information
 
@@ -26,4 +26,4 @@ Starting at the home screen, users simply click "Info," and then "here" to find 
 Below are images of how users may learn the purpose of our product, as well as information on their local politician:
 
 |:---|:---|:---|
-| ![politicians](/img/infoScreen.jpg) | ![politicians](/img/localPoliticians.jpg) | ![politicians](/img/politicianSelected.jpg) |
+| ![politicians](/img/infoScreen.png) | ![politicians](/img/localPoliticians.png) | ![politicians](/img/politicianSelected.png) |
