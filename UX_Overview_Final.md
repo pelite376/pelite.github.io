@@ -47,19 +47,19 @@ Users can press the flag, which allows them to select an image and flag it for v
 ## Testing Process
 (1 paragraph) Present your testing process, including your method and your participants. This process probably evolved some in the course of your project. Include a retrospective on how you refined your process, separate from how you refined your design.
 
-
-
-
-
-
-
-
-
-
-
+Our [tests](https://pelite376.github.io/Usability_Review/) involved two groups of two participants and one single participants, because we wanted to test out the abilities of individuals to figure out how to use our product through co-discovery. Each time, we did not give our participants any specific tasks, because we wanted to mimic a real-world situation where they would simply walk by it on the street and begin interacting, probably having never used it before. Throughout our testing process, we each improved upon our roles. Our notes became more and more nuanced, the computer's accuracy and consistency improved, and the facilitator improved at striking a balance between guiding the users enough and not giving them too many hints. We strove to provide a strong situational setup, given the non-realism of our design, to make users feel more like they were using a real product, rather than testing a hypothetical design that could never exist. We found that these efforts allowed the quality of criticism and discovery to improve drastically.
 
 ## Testing Results
 (1 paragraph) Summarize the results of your paper prototype testing and refinement. Present what you learned about each version of your prototype and what changes you made as a result. This will include changes from your heuristic evaluation, usability testing, and design critique.
+
+
+
+
+
+
+
+
+
 
 ## Final Paper Prototype
 (1 paragraph) Present your final version of your paper prototype, as you did for your initial paper prototype above. Convey the critical aspects of your design, including your two primary tasks.
