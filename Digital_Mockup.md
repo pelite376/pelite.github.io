@@ -10,14 +10,14 @@ Our group's design, fortunately, was relatively easy to convert directly to a di
 
 Below is an overview of our entire digital mockup:
 
-
 ## Task 1: Adding Art to Buildings
 
 From the home screen, users click the "+," after which point they are prompted to create art however they wish. Once they are done, they simply click "Done" and confirm to post content.
 
 Below are images showing the screens of creating an art post:
 
-
+|:---|:---|:---|:---|
+| ![art](/img/postScreen.jpg) | ![art](/img/selectColor.jpg) | ![art](/img/selectSize.jpg) | ![art](/img/selectFont.jpg) |
 
 ## Task 2: Finding Politician Information
 
@@ -25,3 +25,5 @@ Starting at the home screen, users simply click "Info," and then "here" to find 
 
 Below are images of how users may learn the purpose of our product, as well as information on their local politician:
 
+|:---|:---|:---|
+| ![politicians](/img/infoScreen.jpg) | ![politicians](/img/localPoliticians.jpg) | ![politicians](/img/politicianSelected.jpg) |
