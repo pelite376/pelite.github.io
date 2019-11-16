@@ -40,10 +40,6 @@ This usability test proved to tip the scales on many of our design choices. Firs
 
 # Final Paper Prototype
 
-Submit detailed images of your final paper prototype, as revised in this process. Include both:
-  An overview image that shows your entire paper prototype.
-  Detailed images showing each component as you walk through your two primary tasks.
-
 # Our Most Critical Issues:
 
 A common theme among our most salient modifications was that of optimizing functionality. We felt that each of these issues greatly limited the potential usability of our product by confusing the user into thinking there isn't any more to do.
