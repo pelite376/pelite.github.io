@@ -65,6 +65,17 @@ All of our results can be read about in detail [here](https://pelite376.github.i
 
 Our final paper prototype, which implemented all of these changes, is depicted below.
 
+|Screen | Image |
+|:---|:---|
+| Home Screen | ![HomeScreen](/img/homePage.jpg) |
+| Info Page | ![InfoPage](/img/infoPage.jpg) |
+| Politician Info | ![Politicians](/img/polisearch.jpg) |
+| Flag Content | ![FlagContent](/img/flag1.jpg) |
+| Flag Content | ![FlagContent](/img/flag2.jpg) |
+| Create New Post | ![NewPost](/img/addContent.jpg) |
+| Text Post | ![Text](/img/artPost.jpg) |
+| Art Post | ![Art](/img/textPost.jpg) |
+| Photo Post | ![Photo](/img/photoPost.jpg) |
 
 
 
