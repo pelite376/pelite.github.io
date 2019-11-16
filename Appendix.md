@@ -17,10 +17,10 @@ title: Deliverables Archive
 
 * [Paper Prototypes](https://pelite376.github.io/Paper_Prototype)
 
-* [Heuristic Evaluations] (https://pelite376.github.io/Heuristic_Evals)
+* [Heuristic Evaluations](https://pelite376.github.io/Heuristic_Evals)
 
-* [Usability Testing Check-In] (https://pelite376.github.io/Usability_Testing_Checkin)
+* [Usability Testing Check-In](https://pelite376.github.io/Usability_Testing_Checkin)
 
-* [Usability Testing Review] (https://pelite376.github.io/Usability_Review)
+* [Usability Testing Review](https://pelite376.github.io/Usability_Review)
 
-* [Digital Mockup] (https://pelite376.github.io/Digital_Mockup)
+* [Digital Mockup](https://pelite376.github.io/Digital_Mockup)
