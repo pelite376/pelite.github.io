@@ -23,12 +23,13 @@ navbar-links:
   UX Research:
     - Project Proposal: "proposal"
     - UX Research Overview: "UX_Overview"
-  UX Design:
-    - Paper Prototypes: "Paper_Prototype"
-    - Heuristic Evaluations: "Heuristic_Evals"
-    - Usability Testing Check-In: "Usability_Testing_Checkin"
-    - Usability Testing Review: "Usability_Review"
-    - Digital Mockup: "Digital_Mockup"
+  UX Design: "UX_Overview_Final.md"
+# UX Design:
+# - Paper Prototypes: "Paper_Prototype"
+# - Heuristic Evaluations: "Heuristic_Evals"
+# - Usability Testing Check-In: "Usability_Testing_Checkin"
+# - Usability Testing Review: "Usability_Review"
+# - Digital Mockup: "Digital_Mockup"
   Team:
     - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
