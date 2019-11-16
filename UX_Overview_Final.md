@@ -61,9 +61,7 @@ As for our usability testing, there were many contentious elements of our design
 All of our results can be read about in detail [here](https://pelite376.github.io/Usability_Review/).
 
 ## Final Paper Prototype
-(1 paragraph) Present your final version of your paper prototype, as you did for your initial paper prototype above. Convey the critical aspects of your design, including your two primary tasks.
-
-Our final paper prototype, which implemented all of these changes, is depicted below.
+Our final paper prototype, which implemented all of these changes, is depicted below. In this walkthrough, we see a user going first through the information screens, seeing the politician info, then to the content creation page, and lastly the pop-up showing posted content. This design implements all of the alterations necessary to resolve each of our findings from the testing process.
 
 |Screen | Image |
 |:---|:---|
@@ -77,13 +75,14 @@ Our final paper prototype, which implemented all of these changes, is depicted b
 | Art Post | ![Art](/img/textPost.jpg) |
 | Photo Post | ![Photo](/img/photoPost.jpg) |
 
-
-
-
-
-
 ## Digital Mockup
 (1 paragraph) Present your digital mockup. Convey the critical aspects of your design, including your two primary tasks. Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. Briefly discuss any changes you made in response to critique. Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
+
+
+
+
+
+
 
 ## Discussion
 (1 paragraph)
