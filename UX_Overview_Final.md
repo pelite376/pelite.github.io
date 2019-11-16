@@ -105,14 +105,14 @@ Below are images of how users may learn the purpose of our product, as well as i
 | ![politicians](/img/infoScreen.png) | ![politicians](/img/localPoliticians.png) | ![politicians](/img/politicianSelected.png) |
 
 ## Discussion
-<---
+<!---
 (1 paragraph)
 This is new content to generate! Reflect upon and discuss your project and your results. For example:
 What did you learn from the process of iterative design?
 How did the process shape your final design?
 How have your tasks changed as a result of your usability tests?
 Do you think you could have used more, or fewer, iterations upon your design?
----!>
+--->
 
 We learned that, especially when it comes to implementing a design that does not resemble anything that currently exists, it is exceptionally important to allow *others* to test our design, rather than reflecting upon it ourselves. Our design necessarily requires discovery, as it is not something a single user will use daily, but rather something many users will use multiple times. As a result, the discovery aspect of our design *needs* to be easy, or else users will get frustrated and give up. Our experience shows that usability tests can really flip a design on its head, as almost every single aspect of our design (beyond the barebones layout) changed in some way, but in so doing it has become much more intuitive to use. We've also learned that although the few usability tests we conducted allowed us to iron out most of the large issues, there is always more to be done. For example, we believe that some A/B testing could be useful to further test design nuances, such as work flow and button styles. We also think that, given extensive testing options and time, the general design of accomplishing our tasks may have changed even further, because it would have given us the time to A/B test multiple workflow styles to see if one was more intuitive to users than another, which is yet another reason that we could have used more iterations upon our design.
 
