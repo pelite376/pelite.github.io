@@ -79,7 +79,7 @@ Our final paper prototype, which implemented all of these changes, is depicted b
 (1 paragraph) Present your digital mockup. Convey the critical aspects of your design, including your two primary tasks. Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. Briefly discuss any changes you made in response to critique. Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
 
 ## The Digital Design
-Our group's design, fortunately, was relatively easy to convert directly to a digital mockup with no necessary changes. As for our mockup, we still have yet to figure out how to allow users to actually draw/type content into the interface, but we have, at the least, implemented each of the buttons to have a follow-up screen. One small difference, not mentioned in our paper prototype, is our decision to add a "search" feature in the politician screen, so that users can easily find a politician's information if they already know them by name. As of yet, this is a "dead" feature that is not critical towards accomplishing our desired tasks, but it can be easily implemented in our mockup later. Additionally, our politician screen currently displays the information of a single politician, many times over, but we feel as though this gives users enough of an idea how the design works. Overall, our paper and digital designs are very similar.
+Our group's design, fortunately, was relatively easy to convert directly to a digital mockup with no necessary changes. As for our mockup, we still have yet to figure out how to allow users to actually draw/type content into the interface, but we have, at the least, implemented each of the buttons to have a follow-up screen. Though we have added a "search" feature in the politician screen, so that users can easily find a politician's information if they already know them by name, this is a "dead" feature that is not critical towards accomplishing our desired tasks, but it can be easily implemented in our mockup later. Additionally, our politician screen currently displays the information of a single politician, many times over, but we feel as though this gives users enough of an idea how the design works. Overall, our paper and digital designs are very similar.
 
 ## Overview
 
@@ -104,21 +104,17 @@ Below are images of how users may learn the purpose of our product, as well as i
 |:---|:---|:---|
 | ![politicians](/img/infoScreen.png) | ![politicians](/img/localPoliticians.png) | ![politicians](/img/politicianSelected.png) |
 
-
-
-
-
-
-
-
-
-
-
-
 ## Discussion
+<---
 (1 paragraph)
 This is new content to generate! Reflect upon and discuss your project and your results. For example:
 What did you learn from the process of iterative design?
 How did the process shape your final design?
 How have your tasks changed as a result of your usability tests?
 Do you think you could have used more, or fewer, iterations upon your design?
+---!>
+
+We learned that, especially when it comes to implementing a design that does not resemble anything that currently exists, it is exceptionally important to allow *others* to test our design, rather than reflecting upon it ourselves. Our design necessarily requires discovery, as it is not something a single user will use daily, but rather something many users will use multiple times. As a result, the discovery aspect of our design *needs* to be easy, or else users will get frustrated and give up. Our experience shows that usability tests can really flip a design on its head, as almost every single aspect of our design (beyond the barebones layout) changed in some way, but in so doing it has become much more intuitive to use. We've also learned that although the few usability tests we conducted allowed us to iron out most of the large issues, there is always more to be done. For example, we believe that some A/B testing could be useful to further test design nuances, such as work flow and button styles. We also think that, given extensive testing options and time, the general design of accomplishing our tasks may have changed even further, because it would have given us the time to A/B test multiple workflow styles to see if one was more intuitive to users than another, which is yet another reason that we could have used more iterations upon our design.
+
+
+
