@@ -45,24 +45,31 @@ Users can press the flag, which allows them to select an image and flag it for v
 
 
 ## Testing Process
-(1 paragraph) Present your testing process, including your method and your participants. This process probably evolved some in the course of your project. Include a retrospective on how you refined your process, separate from how you refined your design.
+Our first step in the testing process was the [heuristic evaluation](https://pelite376.github.io/Heuristic_Evals/). We had three participants, one of which was alone, and the other two of which were together. For each of these evaluations, 1-2 members of our team walked the users through the product and then allowed each of the individuals to test out the product themselves. We did not give our users specified tasks because we already told them everything our product was capable of doing, so we thought it best to let them explore the interface themselves.
 
-Our [tests](https://pelite376.github.io/Usability_Review/) involved two groups of two participants and one single participants, because we wanted to test out the abilities of individuals to figure out how to use our product through co-discovery. Each time, we did not give our participants any specific tasks, because we wanted to mimic a real-world situation where they would simply walk by it on the street and begin interacting, probably having never used it before. Throughout our testing process, we each improved upon our roles. Our notes became more and more nuanced, the computer's accuracy and consistency improved, and the facilitator improved at striking a balance between guiding the users enough and not giving them too many hints. We strove to provide a strong situational setup, given the non-realism of our design, to make users feel more like they were using a real product, rather than testing a hypothetical design that could never exist. We found that these efforts allowed the quality of criticism and discovery to improve drastically.
+Our [usability tests](https://pelite376.github.io/Usability_Review/) involved two groups of two participants and one single participants, because we wanted to test out the abilities of individuals to figure out how to use our product through co-discovery. Each time, we did not give our participants any specific tasks, because we wanted to mimic a real-world situation where they would simply walk by it on the street and begin interacting, probably having never used it before. Throughout our testing process, we each improved upon our roles. Our notes became more and more nuanced, the computer's accuracy and consistency improved, and the facilitator improved at striking a balance between guiding the users enough and not giving them too many hints. We strove to provide a strong situational setup, given the non-realism of our design, to make users feel more like they were using a real product, rather than testing a hypothetical design that could never exist. We found that these efforts allowed the quality of criticism and discovery to improve drastically.
+
+We also conducted a cognitive walkthrough as part of our testing process, and we did this after our first usability test. Our cognitive walkthrough did not prove to provide much useful information, possibly because our heuristic evaluations provided us with a lot of information and allowed us to implement many changes. More information on our cognitive walkthrough can also be found on the page describing our [usability tests](https://pelite376.github.io/Usability_Review/) in more detail.
 
 ## Testing Results
-(1 paragraph) Summarize the results of your paper prototype testing and refinement. Present what you learned about each version of your prototype and what changes you made as a result. This will include changes from your heuristic evaluation, usability testing, and design critique.
+From our heuristic evaluation, we received many critiques that were implemented immediately before our usability tests. The first large critique was that users did not know the status of their art, so we added pop-ups to notify users when their art was posted or discarded. We also switched our red "X" button to a "back" arrow, to make that button's function more clear. 
 
+The main takeaway from the cognitive walkthrough was the addition of the "search" feature within out politician screen; we thought it made a lot of sense, since users who want information on politicians may very well have one in mind already, so this allows them to more easily find the person they are looking for. 
 
+As for our usability testing, there were many contentious elements of our design. Some of our users found them very intuitive, while some did not. A good example of such an element were the buttons of our prototype, which did not have lablels at first. In the end, we decided to label each of our buttons with text to make the buttons more clear, because we figured that doing so would not detract from the experience of the users who did not need the text, but it would make the design more intuitive to others. We also expanded the screen layout of our design. Because we have virtually infinite room, we pushed the tool bars to the outside of the original "screen," to both make room and so that users would not forget that they have the option to change colors, fonts, text size, etc. This has the added benefit of reminding users that posts can have multiple different types of media combined into a single post. Lastly, we hid our "politician" feature a bit more, because we received feedback that the feature did not appear to complement the "post" feature very well. Our new design featured an "information" button instead, inside of which users can still read about politician information, but only once they are more informed on the purpose of our product.
 
-
-
-
-
-
-
+All of our results can be read about in detail [here](https://pelite376.github.io/Usability_Review/).
 
 ## Final Paper Prototype
 (1 paragraph) Present your final version of your paper prototype, as you did for your initial paper prototype above. Convey the critical aspects of your design, including your two primary tasks.
+
+Our final paper prototype, which implemented all of these changes, is depicted below.
+
+
+
+
+
+
 
 ## Digital Mockup
 (1 paragraph) Present your digital mockup. Convey the critical aspects of your design, including your two primary tasks. Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. Briefly discuss any changes you made in response to critique. Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
