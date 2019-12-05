@@ -20,10 +20,9 @@ description: A website all about our project
 
 # List of links in the navigation bar
 navbar-links:
-  UX Research:
-    - Project Proposal: "proposal"
-    - UX Research Overview: "UX_Overview"
-  UX Design: "UX_Overview_Final"
+# UX Research:
+# - Project Proposal: "proposal"
+# - UX Research Overview: "UX_Overview"
 # UX Design:
 # - Paper Prototypes: "Paper_Prototype"
 # - Heuristic Evaluations: "Heuristic_Evals"
@@ -31,13 +30,12 @@ navbar-links:
 # - Usability Testing Review: "Usability_Review"
 # - Digital Mockup: "Digital_Mockup"
   Team:
-    - Contract: "contract"
     - Peter Hollander: "http://peterhollander.github.io"
     - Liv Behrens: "http://ojb2.github.io"
     - Teiheim Edwards: "http://teiheim.github.io"
   Appendix: "Appendix"
-  Credits:
-    - Logo: "https://pixabay.com/vectors/brooklyn-new-york-skyline-cityscape-2858985/"
+# Credits:
+# - Logo: "https://pixabay.com/vectors/brooklyn-new-york-skyline-cityscape-2858985/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
