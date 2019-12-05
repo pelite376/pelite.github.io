@@ -38,3 +38,7 @@ title: Deliverables Archive
 * [Digital Mockup](https://pelite376.github.io/Digital_Mockup)
 
 * [Design Overview](https://pelite376.github.io/UX_Overview_Final/)
+
+## Logo Credits
+
+[Skyline Image](https://pixabay.com/vectors/brooklyn-new-york-skyline-cityscape-2858985/)
